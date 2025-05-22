@@ -21,6 +21,32 @@ I believe life is a journey
 </p>
 
 
+## 🚀 Projects
+
+### [Tailor My Resume](https://tailormyresume.my/)  
+An AI-powered platform that analyzes résumés against job descriptions, offering personalized optimization suggestions to improve interview chances.  
+**Tech**: OpenAI API, Vercel Functions, TailwindCSS, Firebase
+
+---
+
+### [Your Moments Hub](https://yourmomentshub.com/)  
+A **location-based social media mobile app** for capturing and sharing moments as they happen. Users can post real-time updates, explore nearby memories, and connect through shared experiences.  
+**Tech**: React Native, Supabase, TailwindCSS, Map APIs
+
+---
+
+### [SoluStack](https://solustack.tech/)  
+A platform offering digital solutions and training services, including web development, branding, and marketing tailored for startups and SMEs.  
+**Tech**: Astro, TailwindCSS, TypeScript
+
+---
+
+### [Daniel Isibor & Co.](https://daniel-isibor-and-co.vercel.app)  
+A professional website for a law firm providing legal services, showcasing areas of practice, team members, and contact details.  
+**Tech**: Next.js, React, CSS Modules
+
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Ekaji" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/EkajiOnah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
