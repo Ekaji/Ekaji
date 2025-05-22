@@ -15,21 +15,32 @@ I believe life is a journey
 
 ### Skills
 
-**Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
-![Astro](https://img.shields.io/badge/-Astro-000000?logo=astro&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)  
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=flat)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)  
+## 🛠️ Skills
 
----
+**Frontend Development**  
+React • React Native • Next.js • Astro • JavaScript • TypeScript • Tailwind CSS • HTML • CSS
+
+**Backend & APIs**  
+Node.js • REST APIs • OpenAI API • Stripe API • Firebase Functions
+
+**Mobile Development**  
+React Native • Expo • Location-based Services • Push Notifications
+
+**Databases**  
+Supabase • Firebase Realtime DB & Firestore • PostgreSQL • SQLite
+
+**DevOps & Deployment**  
+Vercel • Netlify • Git & GitHub • CI/CD basics
+
+**Testing & Debugging**  
+Chrome DevTools • React Native Debugger • Postman
+
+**Design & Collaboration**  
+Figma • UI/UX Design • Prototyping • Agile & Kanban tools (Trello, Notion)
+
+**Other**  
+AI Integration • Responsive Design • Version Control • Performance Optimization
+
 
 
 <p align="left">
